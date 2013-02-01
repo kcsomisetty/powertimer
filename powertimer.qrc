@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>exit.png</file>
+        <file>ui.qml</file>
+        <file>stripes.png</file>
+        <file>timercontrol.png</file>
+        <file>ParallaxView.qml</file>
+        <file>CustomWarning.qml</file>
+        <file>TextButton.qml</file>
+    </qresource>
+</RCC>
